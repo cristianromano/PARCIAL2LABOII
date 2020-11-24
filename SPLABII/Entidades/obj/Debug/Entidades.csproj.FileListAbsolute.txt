@@ -9,3 +9,14 @@ C:\Users\Cristian\source\repos\SPLABII\Entidades\bin\Debug\Excepciones.dll
 C:\Users\Cristian\source\repos\SPLABII\Entidades\bin\Debug\Archivos.pdb
 C:\Users\Cristian\source\repos\SPLABII\Entidades\bin\Debug\Excepciones.pdb
 C:\Users\Cristian\source\repos\SPLABII\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Cristian\Desktop\SPLAB2\SPLABII\Entidades\bin\Debug\Entidades.dll
+C:\Users\Cristian\Desktop\SPLAB2\SPLABII\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Cristian\Desktop\SPLAB2\SPLABII\Entidades\bin\Debug\Archivos.dll
+C:\Users\Cristian\Desktop\SPLAB2\SPLABII\Entidades\bin\Debug\Excepciones.dll
+C:\Users\Cristian\Desktop\SPLAB2\SPLABII\Entidades\bin\Debug\Archivos.pdb
+C:\Users\Cristian\Desktop\SPLAB2\SPLABII\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Cristian\Desktop\SPLAB2\SPLABII\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Cristian\Desktop\SPLAB2\SPLABII\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\SPLAB2\SPLABII\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Cristian\Desktop\SPLAB2\SPLABII\Entidades\obj\Debug\Entidades.dll
+C:\Users\Cristian\Desktop\SPLAB2\SPLABII\Entidades\obj\Debug\Entidades.pdb

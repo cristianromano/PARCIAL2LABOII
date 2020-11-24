@@ -55,6 +55,7 @@ namespace PaginaPrincipal
         }
         private void btnComenzarPedidos_Click(object sender, EventArgs e)
         {
+            this.btnComenzarPedidos.Enabled = false;
             aux.Clear();
             hilo = new Thread(formAgregar.pasarPedidos);
             hilo.Start();
