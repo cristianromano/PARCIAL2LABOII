@@ -1,0 +1,9 @@
+C:\Users\Cristian\source\repos\SPLABII\Archivos\bin\Debug\Archivos.dll
+C:\Users\Cristian\source\repos\SPLABII\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Cristian\source\repos\SPLABII\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Cristian\source\repos\SPLABII\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Cristian\source\repos\SPLABII\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\SPLABII\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Cristian\source\repos\SPLABII\Archivos\obj\Debug\Archivos.dll
+C:\Users\Cristian\source\repos\SPLABII\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Cristian\source\repos\SPLABII\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache

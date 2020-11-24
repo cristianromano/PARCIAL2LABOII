@@ -1,0 +1,14 @@
+C:\Users\Cristian\source\repos\SPLABII\Main\bin\Debug\Main.exe.config
+C:\Users\Cristian\source\repos\SPLABII\Main\bin\Debug\Main.exe
+C:\Users\Cristian\source\repos\SPLABII\Main\bin\Debug\Main.pdb
+C:\Users\Cristian\source\repos\SPLABII\Main\bin\Debug\Entidades.dll
+C:\Users\Cristian\source\repos\SPLABII\Main\bin\Debug\Excepciones.dll
+C:\Users\Cristian\source\repos\SPLABII\Main\bin\Debug\Entidades.pdb
+C:\Users\Cristian\source\repos\SPLABII\Main\bin\Debug\Excepciones.pdb
+C:\Users\Cristian\source\repos\SPLABII\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\Cristian\source\repos\SPLABII\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\SPLABII\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\Cristian\source\repos\SPLABII\Main\obj\Debug\Main.exe
+C:\Users\Cristian\source\repos\SPLABII\Main\obj\Debug\Main.pdb
+C:\Users\Cristian\source\repos\SPLABII\Main\bin\Debug\Archivos.dll
+C:\Users\Cristian\source\repos\SPLABII\Main\bin\Debug\Archivos.pdb
