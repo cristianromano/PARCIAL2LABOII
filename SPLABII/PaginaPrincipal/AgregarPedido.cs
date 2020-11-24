@@ -98,6 +98,8 @@ namespace PaginaPrincipal
             }
             else
             {
+                this.txtContacto.Text = "";
+                this.txtDomicilio.Text = "";
                 this.checkDelivery.Checked = false;
             }
         }
